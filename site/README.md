@@ -6,24 +6,19 @@ Página única, em HTML e CSS, sem compilação nem dependências. Foi feita pri
 
 Abrir `index.html` no navegador. Também funciona sem Internet; nesse caso aparecem as letras do sistema em vez das do Google Fonts.
 
-## Publicar (Cloudflare Pages, gratuito)
+## Publicação (GitHub Pages)
 
-O repositório é privado, e o GitHub Pages só publica repositórios privados em planos pagos. O Cloudflare Pages publica de graça a partir de um repositório privado.
+Endereço: **<https://duarte-mondlane.github.io/kudondza/>**
 
-1. Criar uma conta em <https://dash.cloudflare.com/sign-up>.
-2. Em **Workers & Pages**, criar um projeto **Pages** ligado ao Git (*Connect to Git*) e autorizar o acesso ao repositório `Duarte-Mondlane/kudondza`.
-3. Configurar:
-   - **Production branch:** `main`
-   - **Framework preset:** None
-   - **Build command:** deixar vazio
-   - **Build output directory:** `site`
-4. Guardar. O site fica disponível num endereço do tipo `https://kudondza.pages.dev`.
+O site é publicado pelo fluxo [`.github/workflows/pages.yml`](../.github/workflows/pages.yml). Corre sozinho sempre que entra no `main` uma alteração à pasta `site/`. Também se pode correr à mão em **Actions → Publicar site → Run workflow**.
 
-A partir daí, cada alteração enviada para o `main` atualiza o site automaticamente. Alterações noutros ramos geram um endereço de pré-visualização à parte.
+### Configuração inicial (uma só vez)
 
-### Depois de publicar
+Em **Settings → Pages → Build and deployment → Source**, escolher **GitHub Actions**. Sem isto, o fluxo falha no passo de publicação.
 
-Na linha `og:image` do `index.html`, trocar `img/pratica.jpg` pelo endereço completo, por exemplo `https://kudondza.pages.dev/img/pratica.jpg`. Sem isso, o WhatsApp e o Facebook não mostram a imagem quando o link é partilhado.
+### Domínio próprio (opcional)
+
+Para usar um domínio como `kudondza.co.mz`: registá-lo, indicá-lo em **Settings → Pages → Custom domain** e configurar o DNS como o GitHub explicar nessa página. Depois, atualizar `canonical`, `og:url` e `og:image` no `index.html` com o novo endereço.
 
 ## Onde mudar o quê
 

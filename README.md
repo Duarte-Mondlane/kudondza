@@ -16,6 +16,7 @@ Este repositório reúne o trabalho do Kudondza Center: programas dos cursos, pr
 
 ```
 .
+├── .github/workflows/pages.yml  publica o site no GitHub Pages
 ├── cursos/
 │   └── informatica-basica/
 │       ├── README.md            ficha do curso: oferta, programa e pontos por definir
@@ -29,7 +30,7 @@ Este repositório reúne o trabalho do Kudondza Center: programas dos cursos, pr
     └── img/
 ```
 
-O [`site/README.md`](site/README.md) explica como ver o site localmente e como o publicar.
+Site: **<https://duarte-mondlane.github.io/kudondza/>**. É publicado automaticamente a partir do `main`; o [`site/README.md`](site/README.md) explica como.
 
 ## Convenções
 
