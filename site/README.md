@@ -14,7 +14,9 @@ O site é publicado pelo fluxo [`.github/workflows/pages.yml`](../.github/workfl
 
 ### Configuração inicial (uma só vez)
 
-Em **Settings → Pages → Build and deployment → Source**, escolher **GitHub Actions**. Sem isto, o fluxo falha no passo de publicação.
+Em **Settings → Pages → Build and deployment → Source**, escolher **GitHub Actions** (não **Deploy from a branch**).
+
+Se ficar em **Deploy from a branch**, o GitHub faz uma segunda publicação a cada alteração no `main`, a partir da raiz do repositório. Essa publicação termina depois da do fluxo, e o site fica a mostrar o `README.md` em vez da página.
 
 ### Domínio próprio (opcional)
 
