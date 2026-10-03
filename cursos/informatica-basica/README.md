@@ -46,6 +46,12 @@ O programa completo, com conteúdos, objetivos e atividades de cada módulo, est
 
 **Avaliação:** essencialmente prática, com exercícios por módulo, tarefas individuais, participação e o projeto final integrado.
 
+## Aulas
+
+| Aula | Data | Tema |
+|---|---|---|
+| [Aula 1](aulas/aula-01-introducao-a-informatica.md) | Segunda-feira, 5 de outubro | Módulo 1 — Introdução à informática |
+
 ## Por definir
 
 - Plataforma das aulas online (Google Meet, Zoom, WhatsApp…) e como os estudantes recebem o link

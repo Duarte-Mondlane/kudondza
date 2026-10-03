@@ -21,6 +21,7 @@ Este repositório reúne o trabalho do Kudondza Center: programas dos cursos, pr
 │   └── informatica-basica/
 │       ├── README.md            ficha do curso: oferta, programa e pontos por definir
 │       ├── guia-do-curso.md     guia completo de módulos e conteúdos
+│       ├── aulas/               plano de cada aula, com link para os slides
 │       └── originais/           documentos recebidos (.docx), guardados como referência
 ├── divulgacao/
 │   └── flyer-informatica-basica.webp
