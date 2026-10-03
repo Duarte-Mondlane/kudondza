@@ -4,16 +4,23 @@
 
 Primeiro curso do Kudondza Center. Destina-se a estudantes que precisam de competências digitais para a vida académica, profissional e pessoal. O objetivo é que cada estudante consiga fazer tarefas reais no computador com autonomia, e não apenas conhecer as ferramentas.
 
-## Oferta
+## Oferta e horário
 
-Condições anunciadas no [flyer de divulgação](../../divulgacao/flyer-informatica-basica.webp):
+Condições anunciadas no [flyer de divulgação](../../divulgacao/flyer-informatica-basica.webp) e confirmadas pela equipa:
 
 | | |
 |---|---|
 | Custo do curso | Gratuito |
 | Inscrição | 100 MT |
 | Vagas | Limitadas |
+| Início | Segunda-feira, 5 de outubro de 2026 |
+| Duração | 1 mês |
+| Aulas online | Segunda a sexta, das 19h00 às 20h00 |
+| Prática presencial | Sábado e domingo, 2 horas de prática, entre as 08h00 e as 16h00 |
+| Local da prática | Escola Secundária da Zona Verde |
 | Contacto | +258 87 999 4892 · kudonzacenter@gmail.com |
+
+O centro não tem morada própria: as aulas teóricas são online e a prática decorre na escola.
 
 ## Programa
 
@@ -41,11 +48,9 @@ O programa completo, com conteúdos, objetivos e atividades de cada módulo, est
 
 ## Por definir
 
-Estes pontos ainda não constam do guia nem do flyer:
-
-- Duração total do curso e carga horária de cada módulo
-- Calendário e horário das turmas
-- Local das aulas (o flyer tem o ícone de localização, mas não indica a morada)
+- Plataforma das aulas online (Google Meet, Zoom, WhatsApp…) e como os estudantes recebem o link
+- Prática ao fim de semana: 2 horas em cada dia ou 2 horas num dos dias; turnos dentro do horário das 08h00 às 16h00
+- Distribuição dos 12 módulos e do projeto final pelas 4 semanas
 - Número de vagas por turma
-- Requisitos de inscrição (idade, escolaridade, computador próprio ou da sala)
+- Requisitos de inscrição (idade, escolaridade, acesso a telemóvel ou computador para as aulas online)
 - Emissão de certificado no final do curso

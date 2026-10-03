@@ -4,7 +4,7 @@
 
 _Aprender. Criar. Desenvolver._
 
-Este repositório reúne o trabalho do Kudondza Center: programas dos cursos, preparação das aulas, materiais para os estudantes e divulgação.
+Este repositório reúne o trabalho do Kudondza Center: programas dos cursos, preparação das aulas, materiais para os estudantes, divulgação e o site.
 
 ## Cursos
 
@@ -21,9 +21,15 @@ Este repositório reúne o trabalho do Kudondza Center: programas dos cursos, pr
 │       ├── README.md            ficha do curso: oferta, programa e pontos por definir
 │       ├── guia-do-curso.md     guia completo de módulos e conteúdos
 │       └── originais/           documentos recebidos (.docx), guardados como referência
-└── divulgacao/
-    └── flyer-informatica-basica.webp
+├── divulgacao/
+│   └── flyer-informatica-basica.webp
+└── site/                        site público (HTML e CSS, sem compilação)
+    ├── index.html
+    ├── styles.css
+    └── img/
 ```
+
+O [`site/README.md`](site/README.md) explica como ver o site localmente e como o publicar.
 
 ## Convenções
 
